@@ -1,0 +1,11 @@
+﻿target_sources (Chess PRIVATE "main.cpp"
+							  "Chess.cpp"
+							  "Location.cpp"
+							  "Board.cpp"
+							  "Rook.cpp"
+							  "King.cpp"
+							  "Bishop.cpp"
+							  "Queen.cpp"
+							  "Pawn.cpp"
+							  "Knight.cpp"
+							  "Piece.cpp")
